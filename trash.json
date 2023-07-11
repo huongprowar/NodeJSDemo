@@ -1,0 +1,14 @@
+{
+    "id": 2,
+    "username": "lam1",
+    "gold": 3802,
+    "diamonds": 513,
+    "energy": 20,
+    "level": 7,
+    "passed_stage": "1 3",
+    "exp_profile": 3400,
+    "eliminated_enemy": 16,
+    "status": 1,
+    "created_at": "2023-07-10T08:10:18.000000Z",
+    "updated_at": "2023-07-10T09:38:23.000000Z"
+}
